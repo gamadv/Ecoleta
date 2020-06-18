@@ -1,0 +1,7 @@
+Tecnologias usadas:
+
+1. Typescript 
+2. Express para tratamento de rotas
+3. (App externo) Insomnia para testar rotas
+4. Knex como Query builder facilitando/possibilitando usar qualquer banco de dados
+5. 
