@@ -36,16 +36,10 @@
   
 </h1>
 
-Estas aplicações foram desenvolvido na semana **Next Level Week 1**,
-realizada pela Rocketseat, utilizando as tecnologias: ***TypeScript , Node, ReactJS e React Native*** para
-construção de uma api Rest para serviço da dados para aplicações web e mobile.
-
 
 # :recycle: Projeto:
   O **Ecoleta** tem como objetivo ajudar pessoas a encontrarem **pontos de coleta** específico para cada tipo de item a ser coletado,
 mutualmente com o cadastro do ponto e suas credenciais de endereço, contato e itens aceitos a coleta.
-  Projeto proposto pela **[Rocketseat](https://rocketseat.com.br/)**, desenvolvido no novo evento online - **__Next Level Week 1.0__** -  com intuito de também repassar conhecimentos relacionados as
-linguagem de programação JavaScript e sua stack para o front-end, back-end e mobile com
   
 ## :battery: Tecnologias envolvidas:
   
